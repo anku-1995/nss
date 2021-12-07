@@ -1,0 +1,1770 @@
+@media screen and (min-width:1380px) {
+    .home-succes-story-slider .owl-nav:after {
+        width: 350px;
+    }
+
+    .home-succes-story-slider .owl-nav:before {
+        width: 350px;
+    }
+}
+
+@media screen and (min-width:1440px) {
+    .step9 p {
+        margin-top: 6%;
+        margin-left: 0;
+    }
+}
+
+@media screen and (min-width:1540px) {
+    .home-succes-story-slider .owl-nav:after {
+        width: 350px;
+    }
+
+    .home-succes-story-slider .owl-nav:before {
+        width: 350px;
+    }
+}
+
+@media screen and (min-width:1800px) {
+    .home-succes-story-slider .owl-nav:after {
+        width: 450px;
+    }
+
+    .home-succes-story-slider .owl-nav:before {
+        width: 450px;
+    }
+}
+
+@media screen and (min-width:1920px) {
+    .home-succes-story-slider .owl-nav:after {
+        width: 600px;
+    }
+
+    .home-succes-story-slider .owl-nav:before {
+        width: 600px;
+    }
+}
+
+@media screen and (min-width:2024px) {
+    .home-succes-story-slider .owl-nav:after {
+        width: 520px;
+    }
+
+    .home-succes-story-slider .owl-nav:before {
+        width: 520px;
+    }
+}
+
+@media screen and (min-width:2400px) {
+    .home-succes-story-slider .owl-nav:after {
+        width: 680px;
+    }
+
+    .home-succes-story-slider .owl-nav:before {
+        width: 680px;
+    }
+}
+
+
+
+@media screen and (max-width:1280px) {
+
+    /* .main-header-inner .main-menu ul li a{
+        padding: 20px 25p;
+    } */
+    .main-header-inner .logo img {
+        width: 205px;
+    }
+
+    .main-header-inner .main-menu {
+        width: 73%;
+    }
+
+    .main-header-inner .donate-btn {
+        width: 10%;
+    }
+
+    .my-button a {
+        font-size: 15px;
+    }
+
+    .main-header-inner .main-menu ul {
+        justify-content: center;
+    }
+
+    .main-header-inner .logo {
+        width: 215px;
+    }
+
+    .home-banner-caption h2 {
+        font-size: 38px;
+        line-height: 41px;
+    }
+
+    .home-banner-caption h1 {
+        font-size: 26px;
+    }
+
+    .step4 .step-th-outer::after {
+        background: url(../images/arrow-curve.png) no-repeat top right;
+        width: 250px;
+        height: 321px;
+        right: -17%;
+        top: 29px;
+        z-index: 1;
+        background-size: 51% 321px;
+    }
+
+    .step9 p {
+        margin-top: 3%;
+    }
+
+    .home-sucess-story {
+        margin-top: -85px;
+    }
+
+    .home-succes-story-slider .owl-nav:before,
+    .home-succes-story-slider .owl-nav:after {
+        height: 97%;
+    }
+
+    .footer-social ul li {
+        padding: 0 2px;
+    }
+    .flip-clock-wrapper ul{
+        width:34px;
+    }
+    .achive-inner .counter{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:1250px) {
+
+    .home-section4-inner-tiles img {
+        width: 100%;
+    }
+
+    .home-section4-inner-tiles {
+        padding: 50px 10px 20px;
+    }
+
+    .home-section4-inner-tiles p {
+        font-size: 16px;
+    }
+
+    .home-succes-story-slider-outer {
+        flex-wrap: wrap;
+    }
+
+    .home-succes-story-slider-right {
+        width: 100%;
+    }
+
+    .home-succes-story-slider-left {
+        width: 100%;
+    }
+
+    .about-page-banner-caption h2 {
+        font-size: 30px;
+    }
+    .mass-wedding-section3-slider .owl-nav{
+        position: static;
+    }
+
+}
+
+
+@media screen and (max-width:1100px) {
+    .main-header-inner .logo {
+        width: 225px;
+    }
+
+    .main-header-inner .main-menu ul li a {
+        padding: 20px 30px 20px 10px;
+    }
+
+    .main-header-inner .donate-btn a {
+        padding: 8px 20px;
+    }
+
+    .home-banner-right {
+        padding-left: 0;
+        box-sizing: border-box;
+    }
+
+    .home-section1-tile {
+        height: 372px;
+    }
+
+    .home-section1-animation1 {
+        padding: 15px;
+    }
+
+    .home-sucess-story-outer {
+        margin-bottom: 0;
+    }
+
+    .home-section2-banner img.man_donate {
+        width: 300px;
+    }
+
+    .home-section2-banner.is-visible img.man_donate {
+        bottom: -17%;
+    }
+
+    .home-sucess-story {
+        margin-top: -74px;
+    }
+
+    .footer-social ul {
+        flex-wrap: wrap;
+    }
+    .woh-section2 .about-page-section4-right .owl-nav {
+        left: -37%;
+        bottom: 10px;
+    }
+    .event-share ul li a{
+        font-size: 14px;
+    }
+    .addtocalander a, .addtocalander a:hover{
+        font-size: 14px;
+    }
+    .flip-clock-divider .flip-clock-label{
+        font-size: 14px;
+    }
+    .flip-clock-wrapper .days .flip-clock-label{
+        left:0;
+    }
+    .flip-clock-wrapper .hours .flip-clock-label {
+        right: -70px;
+    }
+    .flip-clock-divider.minutes .flip-clock-label {
+        right: -77px;
+    }
+    .flip-clock-divider.seconds .flip-clock-label {
+        right: -83px;
+    }
+    .flip-clock-divider{
+        height:65px;
+    }
+
+    .sider-bar-menu ul li a img {
+        padding: 0 6px;
+    }
+    .sider-bar-menu ul li a h4 {
+        font-size: 14px;
+    }
+    .logout-user a h4 {
+        margin-bottom: 0;
+        font-size: 14px;
+    }
+    .logout-user a{
+        padding-left:33px;
+    }
+    .sider-bar-menu ul li a h4{
+        margin:0;
+    }
+
+}
+
+@media screen and (max-width:1070px) {
+    .step-description {
+        padding: 0;
+    }
+
+    .read-more a {
+        font-size: 17px;
+    }
+
+    .home-section1-tile .home-section1-tile-hover:hover .read-more a {
+        font-size: 17px;
+    }
+
+    .home-j-content h1 {
+        font-size: 15px;
+    }
+
+    .home-j-content p {
+        font-size: 12px;
+        width: 80%;
+    }
+
+    .home-j1 img.a {
+        width: 100%;
+    }
+
+    .home-testimonial-slider {
+        margin-bottom: 0;
+    }
+
+    .home-testimonial-details-outer {
+        height: auto;
+    }
+
+    .home-testimonial-details {
+        /* min-height: 550px; */
+        min-height: 370px;
+    }
+
+    .newsletter-form .submit button {
+        font-size: 16px;
+    }
+
+    .newsletter-form .form-input {
+        width: calc(100% - 85px);
+    }
+
+    .newsletter-form .submit {
+        width: 85px;
+    }
+
+    .footer-social ul li a img {
+        width: 39px;
+    }
+    .home-sectiopn-heading {
+        font-size: 37px;
+    }
+
+}
+
+@media screen and (max-width:1020px) {
+    .multimmenu {
+        display: block;
+        margin-left: 20px;
+        margin-top: 5px;
+    }
+
+    .main-header-inner {
+        justify-content: flex-end;
+    }
+
+    .main-menu {
+        display: none;
+
+    }
+
+    #mobilemenu {
+        display: block;
+        position: fixed;
+        width: 100%;
+        height: calc(100% - 90px);
+        background: #2a2b6b;
+        top: 90px;
+        right: 0;
+        -webkit-transform: translateX(100%);
+        transform: translateX(100%);
+        -webkit-transition: -webkit-transform .4s, visibility 0s .4s;
+        transition: transform .4s, visibility 0s .4s;
+        z-index: 999;
+        overflow-x: scroll;
+    }
+
+    #mobilemenu.open {
+        visibility: visible;
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+        -webkit-transition: -webkit-transform .4s;
+        transition: transform .4s;
+    }
+
+
+    .main-header-inner .main-menu {
+        width: 100%;
+    }
+
+    .main-menu.open {
+        visibility: visible;
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+        -webkit-transition: -webkit-transform .4s;
+        transition: transform .4s;
+    }
+
+    .main-menu ul {
+        display: block !important;
+        flex-wrap: wrap;
+    }
+
+    .main-menu ul li {
+        list-style: none;
+        padding: 0;
+        width: 100%;
+        border-bottom: 1px solid #fff;
+    }
+
+    .main-header-inner .main-menu ul li a {
+        display: block;
+        padding: 15px 20px;
+        color: #fff;
+    }
+
+   
+
+    header.darkHeader {
+        top: 0;
+    }
+
+    header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        transition: all 0.7s;
+        z-index: 9999;
+    }
+
+    .home-banner {
+        margin-top: 90px;
+    }
+
+    .main-header-inner .logo img {
+        left: 15px;
+    }
+
+    .main-header-inner {
+        justify-content: flex-end;
+    }
+
+    .main-header-inner .donate-btn {
+        width: 100px;
+    }
+
+    .top-header-inner span {
+        display: none;
+    }
+    .main-header .wrapper{
+        position: relative;
+    }
+    .main-header-inner .logo {
+        width: 100%;
+        position: absolute;
+        left: 15px;
+        height: 100%;
+        z-index: 1;
+    }
+    .main-header-inner .donate-btn.my-button, .multimmenu{
+        position: relative;
+        z-index: 2;
+    }
+    .userdetails-page{
+        padding-top:70px;
+    }
+
+}
+
+
+
+
+
+@media screen and (max-width:990px) {
+
+   
+    .homebanner-inner {
+        flex-wrap: wrap;
+    }
+
+    .home-banner-left {
+        width: 100%;
+    }
+
+    .home-banner .wrapper {
+        padding: 0;
+    }
+
+    .home-banner-left::before {
+        /* display: none; */
+        right: 0;
+        height: 102%;
+    }
+
+    .home-banner-left::after {
+        /* display: none; */
+        height: 102%;
+    }
+
+    .home-banner-video video {
+        height: auto;
+    }
+
+    .home-section1 {
+        margin-top: 0;
+    }
+
+    .home-banner-right {
+        width: 100%;
+        padding: 50px;
+        text-align: center;
+    }
+
+    .home-section2-inner {
+        padding: 50px 0;
+    }
+
+    .home-section4-inner-tiles h4 {
+        font-size: 24px;
+        padding-top: 10px;
+    }
+
+    .home-section4-inner-tiles {
+        width: 30%;
+    }
+
+    .home-section4-inner-tiles img {
+        max-width: 194px;
+        margin:0 auto;
+    }
+
+    .home-section4-inner-tiles {
+        padding: 10px 10px;
+    }
+
+    .home-section4-inner {
+        padding: 50px 0;
+    }
+
+    .footer-text {
+        padding-bottom: 30px;
+    }
+
+    .footer-ads {
+        flex-wrap: wrap;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .donateNow {
+        width: 100%;
+        max-width: 270px;
+        margin: 0 auto;
+    }
+
+    .footer-ads h4,
+    .footer-ads span {
+        padding: 0 0 10px 0;
+        text-align: center;
+    }
+
+    /* remove animation**/
+    .mobile-view {
+        display: block;
+    }
+
+    .home-section2-banner {
+        display: none;
+    }
+
+    .mobile-view {
+        display: block;
+    }
+
+    .mobile-view img {
+        width: 100%;
+    }
+
+    .home-section1-tile,
+    .home-section1-animation1 {
+        transform: scale(1);
+        transition: all 1s ease-in-out;
+        transition-delay: 0.5s;
+    }
+
+    .home-section1 .white-bg1 {
+        width: 0;
+    }
+
+    .home-section1 .white-bg2 {
+        width: 0;
+    }
+
+    .home-testimonial-slider {
+        margin-top: 0;
+    }
+
+    .home-succes-story-slider-outer {
+        animation: none !important;
+    }
+
+    .white-bg4 {
+        width: 0 !important;
+    }
+
+    .white-bg5 {
+        width: 0 !important;
+    }
+
+    .home-section91-inner {
+        display: none;
+    }
+
+    .home-section1 {
+        padding: 50px 0;
+    }
+
+    .about-page-section5 {
+        margin-top: -40px;
+    }
+
+    .about-page-banner-left .home-banner-video video {
+        height: auto;
+    }
+
+    /* .home-testimonial-details {
+    /* min-height: 525px; */
+    /* min-height: 464px;
+}  */
+
+    /* end remove animation**/
+
+
+    .time-line a {
+        font-size: 16px;
+    }
+
+    .time-line a:after {
+        display: none;
+    }
+
+    .time-line-main {
+        width: calc(100% - 137px);
+    }
+
+    .home-banner-left.about-page-banner-left:before {
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+    .covid-page-section3 .home-section4-inner-tiles{
+        width:23%;
+    }
+    /* .breadcum {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 3;
+        text-align: center;
+    } */
+
+    .about-page-section4-right-slider-inner h4{
+        font-size: 17px;
+    }
+    .woh-page-section6 .about-page-section4-right-slider-caption p{
+        font-size: 16px;
+    }
+    .flip-clock-wrapper{
+        margin: 0 auto;
+        max-width: 387px;
+    }
+
+    .event-share ul{
+        justify-content: center;
+    }
+    .gpry-section2{
+        margin-top:-50px;
+    }
+    .key-skill-section2-f-mobile{
+        display: flex;
+        flex-wrap: wrap;
+        width:100%;
+        justify-content: center;
+    }
+    .key-skill-section2-f-mobile li{
+        padding:5px 10px;
+    }
+    .event-details-list li span{
+        padding-right: 0;
+    }
+    .e-magaazine-list-rep{
+        width:31%;
+    }
+
+    .achive-inner{
+        width:18%;
+    }
+    .userdetails-wrapper{
+        flex-wrap: wrap;
+    }
+    .userdetails-left{
+        width:40%;
+    }
+    .userdetails-right {
+        width: 58%;
+    }    
+    .egroup-field{
+        width:50%;
+    }
+    .eusername {
+        font-size: 33px;
+    }   
+    .userdetails-right.table-responsive{
+        overflow-x: scroll;
+    } 
+    .userdetails-right #table_id_wrapper{
+        width:1000px;
+    }
+    .w500{
+        width:100%;
+    }
+ 
+    .wd-section2-inner .donation-details-inner{
+        width:31%;
+    }
+
+    .foreign-bank-page-section3 .foreign-bank-page-section3-left{
+        width:100%;
+    }
+    .foreign-bank-page-section3 .foreign-bank-page-section3-right{
+        width:100%;
+    }
+    .flex-center {
+        justify-content: center;
+    }
+    .home-banner-right {
+        width: 100%;
+        padding: 50px;
+        text-align: center;
+    }
+    .select-quantity{
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    .limbsform-outer{
+        justify-content: center;
+    }
+
+
+
+
+}
+
+@media screen and (max-width:900px) {
+    .home-section1 .wrapper {
+        padding: 0;
+    }
+
+    .home-section1-tile {
+        min-height: 516px;
+    }
+
+    .home-section1-tile {
+        border-radius: 12px;
+    }
+
+    .home-section1-tiles {
+        margin-bottom: -60px;
+    }
+
+    .home-section1 {
+        background-size: cover;
+    }
+
+    .home-section91 {
+        padding-top: 70px;
+    }
+
+    .home-section1title-defult,
+    .home-section1-tile-hover h4 {
+        font-size: 25px;
+    }
+
+    .about-page-section3 {
+        padding-top: 60px;
+    }
+
+    .ab-page-sec3-th img {
+        width: 100% !important;
+    }
+
+    .covid-section5-left, .covid-section5-right{
+        width:100%;
+        text-align: center;
+    }
+    .woh-video-section5:before {
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 2;
+    }
+    .donate-critical-section3-block{
+        padding:10px;
+    }
+    .donate-critical-section3-inner{
+        width:100%;
+    }
+
+}
+
+@media screen and (max-width:800px) {
+    .home-testimonial-details {
+        min-height: 550px;
+        /* min-height: 460px; */
+    }
+
+    .about-page-section4-left {
+        width: 100%;
+    }
+
+    .about-page-section4-right {
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .about-page-section4-left .home-sectiopn-heading br {
+        display: none;
+    }
+
+    .about-page-section4-left .home-sectiopn-heading {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .donation-details-inner h4 {
+        font-size: 20px;
+    }
+
+    .donation-details-inner p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+	.about-page-section1-inner p br{
+		display:none;
+	}
+	.bank-short-detais{
+		padding-top:20px;
+	}
+    .woh-section2 .about-page-section4-left p, .woh-section2 .about-page-section4-right-slider-caption{
+        text-align: center;
+    }
+    .w18{
+        width:48%;
+    }
+    .w10{
+        width:100%;
+        margin-top:0;
+        text-align: center;
+        margin:0 auto;
+    }
+    .f-btn-submit.filter{
+        margin:20px auto;
+    }
+    .event-inner{
+        width:48%;
+    }
+    .gpry-media-coverage-inner{
+        flex-wrap: wrap;
+    }
+    .gpry-media{
+        width:48%;
+        margin-bottom:20px;
+    }
+    .skill-india-section3-slider .donation-details-inner p{
+        padding-top:30px;
+    }
+    .key-skill-section5-inner{
+        justify-content: center;
+    }
+    .key-skill-section2 ul li {
+        font-size: 14px;
+        padding: 0 25px;
+    }
+    .w38 {
+        width: 100%;
+    }
+    .magaazine-main-filter .f-btn-submit{
+        padding-bottom: 0;
+    }
+    .fob-page-list{
+        width:47%;
+    }
+    .coutributlist-th img{
+        width:100%;
+        max-width: 100px;
+        vertical-align: top;
+    }
+    .coutribut-section-list:last-child .coutributlist-th img{
+        max-width: 200px;
+    }
+    .donation-details-inner .dd-icon {
+        width: 80%;
+    }
+    .latest-update-rep-left{
+        width:100%;
+        padding-bottom:20px;
+    }
+    .latest-update-rep-right{
+        width:100%;
+    }
+    .latest-update-rep{
+        padding-top: 0;
+    }
+    .about-page-section1{
+        padding-top:0;
+    }
+    .skill-india-section3.talent-show-section3{
+        padding-bottom:0;
+    }
+    .gpry-media-coverage{
+        padding-bottom:30px;
+    }
+    
+
+
+}
+
+@media screen and (max-width:767px) {
+    .dcd{
+        margin-top:20px;
+    }
+    .home-testimonial-slider {
+        padding: 0 0 0;
+    }
+
+    .top-header-inner ul li {
+        padding: 0 10px;
+    }
+
+    .home-banner-right {
+        width: 100%;
+        padding: 50px 20px 20px;
+        text-align: center;
+    }
+
+    .home-banner-caption h1 {
+        font-size: 25px;
+    }
+
+    .home-banner-caption h2 {
+        font-size: 30px;
+        line-height: 28px;
+    }
+
+    .home-sectiopn-heading {
+        font-size: 25px;
+    }
+
+    .home-section1-tile-hover {
+        padding: 24px 15px;
+    }
+
+    .read-more a {
+        font-size: 15px;
+    }
+
+    .home-section2-description {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .home-succes-story-slider-left h4 {
+        font-size: 20px;
+    }
+
+    .footer-main {
+        text-align: center;
+    }
+
+    .newsletter-form {
+        width: 100%;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+
+    .footer-social ul {
+        justify-content: center;
+    }
+
+    .home-testimonial-details {
+        min-height: auto;
+    }
+
+    .h3 {
+        font-size: 23px;
+        text-transform: uppercase;
+    }
+
+    .home-section1-tile {
+        min-height: 407px;
+    }
+
+    .footer-text4 {
+        padding-bottom: 0;
+    }
+
+    .about-page-section1-inner {
+        width: 100%;
+    }
+
+    .about-page-banner-caption h1 {
+        font-size: 25px;
+    }
+
+    .about-page-banner-caption h2 {
+        font-size: 30px;
+        line-height: 28px;
+    }
+
+    .ab-page-sec3-caption {
+        margin-top: -56px;
+    }
+
+    .ab-page-sec3-th:after {
+        background: url(../images/mobile-masking.png) no-repeat center center;
+        background-size: 100% 100%;
+    }
+
+    .about-page-section3 {
+        padding: 60px 0 30px;
+    }
+
+    .ab-page-sec3-caption {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .home-banner-left.about-page-banner-left:before {
+        width: 100%;
+        left: 0;
+    }
+
+    .play {
+        top: 50%;
+        left: 41%;
+        margin-top: -60px;
+    }
+
+    .play img {
+        width: 60px;
+    }
+    .covid-page-section5 .owl-carousel {
+        padding-top: 0;
+    }
+
+    .woh-section6{
+        padding-top:0;
+    }
+    .woh-page-section6{
+        padding-top:20px;
+    }
+    .woh-count-inner h4 {
+        font-size: 24px;
+    } 
+    .woh-section2 .about-page-section4-left{
+        text-align: center;
+    }
+    .w23{
+        width:48%;
+    }
+    .w14{
+        width:48%;
+    }
+    .rw100{
+        width:100%;
+    }
+    .w70{
+        width:100%;
+    }
+    .w30{
+        width: 100%;
+    }
+    .f-btn-submit{
+        margin:20px auto 0;
+        padding-bottom:0;
+    }
+
+    .event-inner{
+        width:48%;
+    }
+    .load-event::before,  .load-event::after{
+        width:30%;
+    }
+   
+    .gpry-media-content h4 {
+        font-size: 20px;
+    }
+    .gpry-section2-inner .h3{
+        padding-top:20px;
+    }
+    .gpry-section2-inner p br{
+        display: none;
+    }
+    .key-skill-section2 ul{
+        padding-left:0;
+        padding-right:0;
+    }
+    .key-skill-section2 ul li{
+        font-size: 16px;
+        padding: 0 21px;
+    }
+    .skill-india-section3 {
+        padding: 0 0 100px;
+        box-sizing: border-box;
+    }
+    .skill-india-section3.adip-section1{
+        padding: 0 0 0;
+        box-sizing: border-box;
+    }
+    .skill-india-section3-slider .donation-details-inner .dd-icon {
+        position: static;
+    }
+
+    .mass-wedding-slider-right{
+        width:100%;
+    }
+    .mass-wedding-slider-left{
+        width:100%;
+    }
+    .mass-wedding-slider-inner{
+        text-align: center;
+        justify-content: center;
+    }
+    .mass-wedding-section3-slider{
+        padding-top:30px;
+    }
+    .skill-india-section3-slider .item{
+        padding: 65px 0 0;
+    }
+    .skill-india-section3-slider{
+        padding:20px 50px 0; 
+    }
+
+    .achive-inner{
+        width:23%;
+    }
+    .userdetails-left{
+        width:100%;
+    }
+    .userdetails-right{
+        width:100%;
+        margin-top:20px;
+    }
+    .add-more-e-grop h4 {
+        font-size: 16px;
+    }
+    .add-more-e-grop .add a {
+        font-size: 16px;
+    }
+    .add-more-e-grop .add img{
+        width:10px;
+    }
+    .userdetails-right.userdetails-right-main {
+        padding: 30px 15px 0;
+    }
+    .egroup:nth-child(odd) {
+        margin-left: -15px;
+        margin-right: -15px;
+        padding-left:15px;
+        padding-right:15px;
+    }
+    .egroup-heading h3 {
+        font-size: 18px;
+    }
+    .egroup-field p{
+        font-size: 14px;
+    }
+    .custom-cs-inner [type="radio"]:checked + label, .custom-cs-inner [type="radio"]:not(:checked) + label{
+        font-size: 14px;
+    }
+    .wd-section2-inner{
+        margin-bottom:100px;
+    } 
+    .w13{
+        width:100%;
+    }
+
+    .heal-aids-appliance-section1 .home-sectiopn-heading{
+        text-align: center;
+    }
+    .heal-aids-appliance-section1 .woh-section1-inner{
+        text-align: center;
+    }
+
+    .heal-aids-appliance-section1 .contact-page-section1-inner:nth-child(even){
+        padding-top:0;
+    }
+    .specialized-team{
+        padding-bottom:10px;
+    }
+
+   
+    .coutribut-section-list p{
+        font-size: 16px;
+    }
+
+    .causes-section4 .wrapper .causes-section4-main:nth-child(odd) {
+        flex-flow: inherit;
+        flex-wrap: wrap;
+    }
+    .causes-section4-main {
+        flex-wrap: wrap;
+    }
+    .causes-section4-main-banner {
+        width: 100%;
+    }
+    .causes-section4-main-text {
+        width: 100%;
+    }
+    .aboutpagesection3.awardpage-section3 .wrapper {
+        padding: 0;
+    }
+    .aboutpagesection3.awardpage-section3 {
+        padding: 0;
+    }
+
+    .cform-main{
+        flex-wrap: wrap;
+    }
+    .comform-left, .comform-right{
+        width:100%;
+    }
+    
+    .f-btn-submitn{
+        margin-left: 0; 
+        margin-top: 12px;
+    }
+    
+    .w31{
+        width:31%;
+    }
+    .cform-main .message-main textarea{
+        height:108px;
+    }
+    .w18-new{
+        width:48%;
+    }
+    .mobile100{
+        width:100%;
+    }
+    .naturopathy-form-description{
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .accordionButton{
+        font-size: 16px;
+        
+    }
+    .accordionButton span{
+        padding-right:0;
+    }
+    .accordionContent{
+        padding-left: 0;
+    }
+
+    .adip-section2 .covid-section5-left{
+        padding-top:30px;
+    }
+    .donate-for-child-left:after{
+        display: none;
+    }
+    .donate-for-child-left::before{
+        display: none;
+    }
+    .donate-for-child-left{
+        width:100%;
+    }
+    .donate-for-child-right{
+        width:100%;
+    }
+    .f-btn-submit.btn-right{
+        margin-right: auto;
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .mobile-paddingtop0{
+        padding-top:0;
+    }
+    .mobile-paddingbottom0{
+        padding-bottom:0;
+    }
+    .mobile-paddingtop30{
+        padding-top:30px;
+    }
+    .wd-section2-inner{
+        margin-bottom:50px;
+    }
+    .wd-section2-inner .donation-details-inner {
+        margin: 75px 1% 0;
+    }
+   
+    .adip-section1 .skill-india-section3-slider .item{
+        padding-top:0;
+    }
+    .withoutbanner-page{
+        margin-top:50px;
+    }
+    .woh-section2{
+        padding-top:30px;
+    }
+    .padding-bottom0{
+        padding-bottom:0 !important;
+    }
+    /* .key-skill-section-outer{
+        padding-bottom:50px;
+    } */
+    .about-page-banner-right{
+        padding-top:30px;
+    }
+    .covid-page-section3.home-section4.hospital-section2{
+        padding-top:20px;
+    }
+
+    .hospital-section2 .home-section4-inner{
+        padding-top:0;
+        padding-bottom:0;
+    }
+    .about-page-section4.woh-section2.hospital-section3{
+        padding-top:0;
+    } 
+
+    .parasports-section3{
+        padding-bottom:0;
+    }
+
+    .limbs-section4{
+        text-align: center;
+    }
+    .limbs-section4 p{
+        font-size:16px;
+    }
+    .limbs-section3 p{
+        padding-top:10px;
+    }
+    .nssskillsection3{
+        background-size: cover;
+        padding: 30px 0;
+    }
+
+
+}
+
+@media screen and (max-width:650px) {
+    .home-section1-tile {
+        min-height: inherit;
+    }
+
+    .switch-languge {
+        bottom: 0;
+    }
+
+    .about-page-section4-left {
+        width: 100%;
+    }
+
+    .about-page-section4-right {
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .about-page-section4-left .home-sectiopn-heading {
+        padding-bottom: 20px;
+        text-align: center;
+    }
+
+    .about-page-section4-left .home-sectiopn-heading br {
+        display: none;
+    }
+
+    .about-page-section4-right-slider-inner h4 {
+        font-size: 20px;
+    }
+
+    .about-page-section4-right-slider-inner p {
+        font-size: 14px;
+    }
+
+    .ab-page-sec3-caption h4 {
+        font-size: 20px;
+    }
+
+    .ab-page-sec3-caption {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .ab-page-sec3-caption p {
+        font-size: 14px;
+    }
+
+    .about-page-section1 {
+        padding: 20px 0 0;
+    }
+    .nssskillsection3 {
+        background-size: cover;
+        padding: 30px 0;
+    }
+
+    .switch-languge a {
+        font-size: 16px;
+    }
+
+    .time-line-responsive {
+        width: 97%;
+        overflow-x: scroll;
+        position: relative;
+        z-index: 99;
+        margin-top: -55px;
+    }
+
+    .time-line {
+        width: 1034px;
+    }
+
+    .time-line-main {
+        width: 1000px;
+        margin-left: 20px;
+    }
+
+    .time-line-outer {
+        position: relative;
+        margin-top: 25px;
+
+    }
+
+    .donation-details-inner {
+        width: 48%;
+    }
+
+    .covid-section5-left {
+        width: 100%;
+    }
+
+    .covid-section5-right {
+        width: 100%;
+    }
+    .covid-page-section3.home-section4{
+        padding: 50px 0 0;
+    }
+
+    .home-banner-left.about-page-banner-left:after{
+        height:152px;
+    }
+    .breadcum ul li {
+        font-size: 13px;
+    }
+    .event-details-list li{
+        font-size: 17px;
+        padding: 5px 10px;
+    }
+
+    .key-skill-section5-inner{
+        font-size: 15px;
+    }
+
+    .gpry-media-coverage {
+        padding: 0 0 30px;
+    }
+    .mass-wedding-section1-inner{
+        width:100%;
+        background: none;
+        margin-bottom:20px;
+    }
+    .mass-wedding-section3-slider .owl-dots{
+        display: block;
+    }
+    .dream-project-list ul li {
+        font-size: 16px;
+    }
+    .achive-inner{
+        width:31%;
+    }
+    .surgury-section2 .home-section4-inner-tiles {
+        width: 50%;
+    }
+    .wd-section2-inner .donation-details-inner{
+        width:48%;
+    }
+
+    .w48 {
+        width: 100%;
+    }
+    .mr2 {
+        margin-right: 0;
+    }
+    .contact-page-left p{
+        font-size: 16px;
+    }
+    .contact-page-left, .contact-page-right{
+        width: 100%;
+    }
+    .contact-banner-details ul li a{
+        font-size: 20px;
+    }
+    .fob-page-list{
+        width:100%;
+    }
+
+    .coutribut-section-list{
+        width:48%;
+        margin-bottom:20px;
+    }
+    .coutribut-section-last-inner{
+        justify-content: center;
+    }
+    .donate-critical-section3-block h4 {
+        font-size: 29px;
+    }
+    .donate-critical-section3-block p {
+        font-size: 16px;
+    }
+    .breadcum ul li{
+        padding-right:0;
+    }
+
+}
+
+@media screen and (max-width:600px) {
+    .skill-india-section3-slider .donation-details-inner .dd-icon {
+        margin: 0 auto;
+        position: static;
+    }
+    .skill-india-section3-slider .item {
+        padding: 25px 0 0;
+    }
+    .home-section4-inner-tiles, .covid-page-section3 .home-section4-inner-tiles {
+        width: 48%;
+    }
+
+    .home-testimonial-details h4 {
+        font-size: 20px;
+    }
+
+    .footer-ads span,
+    .footer-ads h4 {
+        font-size: 20px;
+    }
+
+    .read-more a {
+        padding: 10px 13px;
+        font-size: 14px;
+    }
+
+    .ab-page-sec3-caption {
+        margin-top: -30px;
+    }
+
+    .ab-page-sec3-caption p {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .details-bank-slider-inner p{
+        text-align: center;
+    }
+
+    .woh-page-section6{
+        padding:20px 0 0;
+    }
+    .woh-section6 .wrapper{
+        padding:0;
+    }
+    .flip-clock-wrapper ul li a div div.inn{
+        font-size: 20px;
+    }
+    .flip-clock-wrapper ul li{
+        line-height: 30px;
+    }
+    .flip-clock-wrapper ul {
+        margin: 2px;
+        width: 25px;
+        height: 32px;
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .flip-clock-wrapper {
+        margin: 0 auto;
+        max-width: 265px;
+    }
+    .flip-clock-divider .flip-clock-label{
+        font-size: 11px;
+    }
+    .flip-clock-divider{
+        height:55px;
+    }
+    .flip-clock-wrapper .days .flip-clock-label {
+        right: -42px;
+    }
+    .flip-clock-wrapper .hours .flip-clock-label {
+        right: -48px;
+    }
+    .flip-clock-divider.minutes .flip-clock-label {
+        right: -54px;
+    }
+    .flip-clock-divider.seconds .flip-clock-label {
+        right: -54px;
+    }
+    .gpry-media-content p {
+        font-size: 13px;
+    }
+    .key-skill-section2 ul{
+        flex-wrap: wrap;
+    }
+    .key-skill-section2 ul li{
+        width:100%;
+        background:none;
+        margin-bottom:10px;
+    }
+    .key-skill-section2 ul li br{
+        display: none;
+    }
+    .e-magaazine-list-rep{
+        width:46%;
+        margin: 0 2% 20px;
+    }
+    .skill-india-section3-slider{
+        padding:20px 0 0; 
+    }
+    .skill-india-section3 .wrapper{
+        padding:0;
+    }
+
+    .changing-living{
+        padding-left:0;
+        padding-right:0;
+    }
+   .changing-living .wrapper{
+       padding:0;
+   }
+   .add-more-e-grop h4{
+       width:60%;
+   }
+   .eusername {
+        font-size: 24px;
+    }
+    .wrapperoutermobile .wrapper{
+        padding:0;
+    }
+    .donate-critical-section3-inner{
+        justify-content: center;
+    }
+    .donate-critical-section3-block{
+        padding:10px;
+    }
+    #awardpage-section3-slider .aboutpagesection3-slider-main {
+        padding: 20px 5px;
+    }
+    #awardpage-section3-slider .aboutpagesection3-section2 {
+        left: 5px;
+        width: calc(100% - 10px);
+    }
+    #awardpage-section3-slider .aboutpagesection3-section1{
+        min-height:300px;
+    }
+    .hospital-section3  .wrapper{
+        padding:0;
+    }
+    .donation-details-inner .dd-icon{
+        width:100%;
+    }
+    .w31{
+        width:100%;
+    }
+    .sucess-story-rep-left{
+        width:100%;
+    }
+    .sucess-story-rep-right{
+        width:100%;
+    }
+    .woh-section2 .wrapper{
+        padding-left:0;
+        padding-right:0;
+    }
+   
+   
+}
+
+@media screen and (max-width:480px) {
+    .ab-page-sec3-caption {
+        margin-top: 0;
+    }
+
+    .donation-details-inner {
+        width: 98%;
+    }
+    .event-inner{
+        width:100%;
+    }
+    .event-share-outer{
+        flex-wrap: wrap;
+    }
+    .addtocalander{
+        width:100%;
+        margin-bottom:20px;
+    }
+    .event-share{
+        width:100%;
+    }
+    .main-header-inner .logo img,
+    header.darkHeader .main-header-inner .logo img {
+        width: 175px;
+    }
+    .multimmenu{
+        margin-left: 10px;
+    }
+
+    .achive-inner{
+        width:48%;
+    }
+    .egroup-field{
+        width:100%;
+        padding: 15px 0;
+    }
+    .specialized-team{
+        justify-content: center;
+       
+    }
+    .specialized-team-inner{
+        padding:10px;
+    }
+    .coutribut-section-list{
+        width:100%;
+        margin-bottom:20px;
+        border:1px solid #ccc;
+        padding:0 20px 20px;
+        box-sizing: border-box;
+    }
+    .coutribut-section-last-inner{
+        text-align: center;
+       
+    }
+    .latest-update-slider .owl-nav .owl-prev span{
+        width:30px;
+        height:30px;
+    }
+    .latest-update-slider .owl-nav .owl-next span{
+        width:30px;
+        height:30px;
+    }
+    .latest-update-slider .owl-nav .owl-prev{
+        right:33px;
+    }
+
+    .limbsform-submit button {
+        padding: 13px;
+        font-size: 15px;
+    }
+    .limbsform-inner input {
+        width: 86px;
+    }
+    .select-quantity{
+        flex-wrap: wrap;
+    }
+    .select-quantity p {
+        width: 100%;
+        padding-right: 0;
+        padding-bottom:10px;
+    }
+
+
+}
+
+@media screen and (max-width:350px) {
+    .main-header-inner .logo img,
+    header.darkHeader .main-header-inner .logo img {
+        width: 130px;
+    }
+    .wd-section2-inner .donation-details-inner{
+        width:100%;
+        margin: 70px 1% 0;
+    }
+
+    
+    
+}
